@@ -1,8 +1,8 @@
-# Resume and Certifications
+# Resume and Certificates
  
 Check out my resume and Coursera certificates:
 
-https://www.coursera.org/learn/python-data-analysis?
+https://www.coursera.org/learn/python-data-analysis?   
 https://www.coursera.org/specializations/machine-learning
 
 - Introduction to Data Science in Python (University of Michigan)
